@@ -2,6 +2,8 @@
 
 # js-data-cloud-datastore
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/GoogleCloudPlatform/js-data-cloud-datastore.svg)](https://greenkeeper.io/)
+
 [![Slack Status][sl_b]][sl_l]
 [![npm version][npm_b]][npm_l]
 [![Circle CI][circle_b]][circle_l]
