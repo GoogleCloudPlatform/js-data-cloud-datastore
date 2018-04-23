@@ -60,14 +60,14 @@
     "release": "npm test && npm run doc && repo-tools updates && repo-tools changelog"
   },
   "dependencies": {
-    "@google-cloud/datastore": "^0.1.1",
+    "@google-cloud/datastore": "^1.4.0",
     "js-data-adapter": "~0.8.2"
   },
   "peerDependencies": {
     "js-data": "^3.0.0-rc.4"
   },
   "devDependencies": {
-    "js-data-repo-tools": "0.5.6",
-    "semistandard": "8.0.0"
+    "js-data-repo-tools": "1.0.0",
+    "semistandard": "12.0.1"
   }
 }
