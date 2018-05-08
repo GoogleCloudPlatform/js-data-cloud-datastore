@@ -1,3 +1,4 @@
+import es2015Rollup from 'babel-preset-es2015-rollup';
 var babel = require('rollup-plugin-babel');
 
 module.exports = {
@@ -10,7 +11,7 @@ module.exports = {
     babel({
       babelrc: false,
       presets: [
-        'es2015-rollup'
+        es2015Rollup
       ],
       exclude: 'node_modules/**'
     })
